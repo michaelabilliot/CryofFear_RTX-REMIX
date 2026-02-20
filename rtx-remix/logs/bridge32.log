@@ -1,0 +1,80 @@
+[03:52:06.748] info:  [03:52:06.747] info:  No default config found for: C:\Users\reyba\Desktop\XASH-COF\xash3d.exe
+[03:52:06.748] info:  [03:52:06.747] info:  Trying to open config file: C:\Users\reyba\Desktop\XASH-COF\.trex\bridge.conf
+[03:52:06.748] info:  [03:52:06.747] info:  Found user config file: C:\Users\reyba\Desktop\XASH-COF\.trex\bridge.conf
+[03:52:06.749] info:  ==================
+[03:52:06.749] info:  NVIDIA RTX Remix Bridge Client
+[03:52:06.749] info:  ==================
+[03:52:06.749] info:  Version: remix-main+eb34ad80
+[03:52:06.749] info:  Loaded d3d9.dll from C
+[03:52:06.749] info:  DirectInput8 hook attached.
+[03:52:06.757] info:  DirectInput hook attached.
+[03:52:06.757] info:  Initializing new shared memory object.
+[03:52:06.759] info:  Initializing new shared memory object.
+[03:52:06.760] info:  Initializing new shared memory object.
+[03:52:06.789] info:  Initializing new shared memory object.
+[03:52:06.799] info:  Launching server with GUID 499cf5d1-9ee2-4bd5-a049-4b7c71f6fd3b
+[03:52:06.804] info:  Process set as DPI aware
+[03:52:06.805] info:  Sending SYN command, waiting for ACK from server...
+[03:52:07.138] info:  Ack received! Handshake completed! Telling server to continue waiting for commands...
+[03:52:07.148] info:  Creating a NON thread-safe D3D9 device.
+[03:52:09.552] info:  Creating a NON thread-safe D3D9 device.
+[03:52:09.553] warn:  [WndProc][set] Calling WndProc::set(...) without an intermediate unset(). Calling implicitly...
+[03:52:09.553] warn:  [WndProc][unset] Previous WndProc is invalid.
+[03:52:09.990] info:  Creating a NON thread-safe D3D9 device.
+[03:52:09.994] warn:  [WndProc][set] Calling WndProc::set(...) without an intermediate unset(). Calling implicitly...
+[03:52:09.994] warn:  [WndProc][unset] Previous WndProc is invalid.
+[03:52:11.059] warn:  Unsupported DirectInput version: 5.10.
+[03:52:11.392] info:  Message channel UWM_REMIX_BRIDGE_REGISTER_THREADPROC_MSG handshake complete.
+[03:52:11.392] info:  Remix UI deactivated.
+[03:52:34.587] info:  Client window became inactive, disabling timeouts for bridge client...
+[03:52:45.125] info:  Client window became active, reenabling timeouts for bridge client...
+[03:52:51.820] info:  Remix UI activated.
+[03:52:55.051] info:  Remix UI deactivated.
+[03:53:07.756] info:  Client window became inactive, disabling timeouts for bridge client...
+[03:53:25.198] info:  Client window became active, reenabling timeouts for bridge client...
+[03:53:25.440] info:  Remix UI activated.
+[03:53:26.624] info:  Remix UI deactivated.
+[03:53:32.516] info:  Client window became inactive, disabling timeouts for bridge client...
+[03:53:50.497] info:  Client window became active, reenabling timeouts for bridge client...
+[03:53:51.420] info:  Client window became inactive, disabling timeouts for bridge client...
+[03:53:51.445] info:  About to unload bridge client.
+[03:53:51.445] info:  Sending Terminate command to server...
+[03:53:51.483] info:  Server notified that it has cleanly terminated. Cleaning up.
+[03:53:52.064] info:  Most recent Device Queue commands sent from Client
+[03:53:52.065] info:  Command sent: Terminate
+[03:53:52.065] info:  Command sent: IDirect3DDevice9Ex_Destroy
+[03:53:52.065] info:  Command sent: IDirect3DIndexBuffer9_Destroy
+[03:53:52.065] info:  Command sent: IDirect3DVertexBuffer9_Destroy
+[03:53:52.065] info:  Command sent: Bridge_UnlinkResource
+[03:53:52.065] info:  Command sent: Bridge_UnlinkResource
+[03:53:52.065] info:  Command sent: Bridge_UnlinkResource
+[03:53:52.065] info:  Command sent: IDirect3DTexture9_Destroy
+[03:53:52.065] info:  Command sent: Bridge_UnlinkResource
+[03:53:52.065] info:  Command sent: IDirect3DSwapChain9_Destroy
+[03:53:52.065] info:  Most recent Device Queue commands received by Server
+[03:53:52.065] info:  Command received: Terminate
+[03:53:52.067] info:  Command received: IDirect3DDevice9Ex_Destroy
+[03:53:52.067] info:  Command received: IDirect3DIndexBuffer9_Destroy
+[03:53:52.067] info:  Command received: IDirect3DVertexBuffer9_Destroy
+[03:53:52.067] info:  Command received: Bridge_UnlinkResource
+[03:53:52.067] info:  Command received: Bridge_UnlinkResource
+[03:53:52.067] info:  Command received: Bridge_UnlinkResource
+[03:53:52.067] info:  Command received: IDirect3DTexture9_Destroy
+[03:53:52.067] info:  Command received: Bridge_UnlinkResource
+[03:53:52.067] info:  Command received: IDirect3DSwapChain9_Destroy
+[03:53:52.067] info:  Most recent Module Queue commands sent from Client
+[03:53:52.067] info:  Command sent: IDirect3D9Ex_CheckDeviceFormat
+[03:53:52.069] info:  Command sent: IDirect3D9Ex_CheckDeviceFormat
+[03:53:52.069] info:  Command sent: IDirect3D9Ex_CheckDeviceFormat
+[03:53:52.069] info:  Command sent: IDirect3D9Ex_CheckDeviceFormat
+[03:53:52.069] info:  Command sent: IDirect3D9Ex_CheckDeviceFormat
+[03:53:52.069] info:  Most recent Module Queue commands received by Server
+[03:53:52.069] info:  Command received: IDirect3D9Ex_CheckDeviceFormat
+[03:53:52.069] info:  Command received: IDirect3D9Ex_CheckDeviceFormat
+[03:53:52.069] info:  Command received: IDirect3D9Ex_CheckDeviceFormat
+[03:53:52.070] info:  Command received: IDirect3D9Ex_CheckDeviceFormat
+[03:53:52.070] info:  Command received: IDirect3D9Ex_CheckDeviceFormat
+[03:53:52.070] info:  Shutdown cleanup successful, exiting now!
+[03:53:52.070] info:  DirectInput8 hook detached.
+[03:53:52.070] info:  DirectInput hook detached.
+[03:53:52.070] info:  [Uptime]: 105s

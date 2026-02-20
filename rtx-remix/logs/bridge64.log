@@ -1,0 +1,35 @@
+[03:52:06.830] info:  [03:52:06.830] info:  No default config found for: C:\Users\reyba\Desktop\XASH-COF\xash3d.exe
+[03:52:06.830] info:  [03:52:06.830] info:  Trying to open config file: C:\Users\reyba\Desktop\XASH-COF\.trex\bridge.conf
+[03:52:06.830] info:  [03:52:06.830] info:  Found user config file: C:\Users\reyba\Desktop\XASH-COF\.trex\bridge.conf
+[03:52:06.830] info:  ==================
+[03:52:06.830] info:  NVIDIA RTX Remix Bridge Server
+[03:52:06.830] info:  ==================
+[03:52:06.830] info:  Version: remix-main+eb34ad80
+[03:52:06.830] info:  Running in x64 mode!
+[03:52:06.830] info:  Launched server with GUID 499cf5d1-9ee2-4bd5-a049-4b7c71f6fd3b
+[03:52:06.830] info:  Server started up, waiting for connection from client...
+[03:52:06.830] info:  Registering exit callback in case client exits unexpectedly.
+[03:52:06.830] info:  Registering message channel for asynchronous message handling.
+[03:52:06.830] info:  Initializing D3D9...
+[03:52:06.922] info:  Message channel MessageChannelServer established.
+[03:52:07.138] info:  D3D9 interface object creation succeeded!
+[03:52:07.138] info:  Loaded D3D9 from C:\Users\reyba\Desktop\XASH-COF\.trex\d3d9.dll
+[03:52:07.138] info:  Version of d3d9 loaded is DXVK
+[03:52:07.138] info:  Feature version parity confirmed!
+[03:52:07.138] info:  Sync request received, sending ACK response...
+[03:52:07.138] info:  Done! Now waiting for client to consume the response...
+[03:52:07.141] info:  Handshake completed! Now waiting for incoming commands...
+[03:52:09.534] info:  Server side D3D9 Device created successfully!
+[03:52:09.896] info:  Server side D3D9 Device created successfully!
+[03:52:10.284] info:  Server side D3D9 Device created successfully!
+[03:52:34.590] info:  Client window became inactive, disabling timeouts for bridge server...
+[03:52:45.127] info:  Client window became active, reenabling timeouts for bridge server!
+[03:53:07.757] info:  Client window became inactive, disabling timeouts for bridge server...
+[03:53:25.198] info:  Client window became active, reenabling timeouts for bridge server!
+[03:53:32.517] info:  Client window became inactive, disabling timeouts for bridge server...
+[03:53:50.498] info:  Client window became active, reenabling timeouts for bridge server!
+[03:53:51.423] info:  Client window became inactive, disabling timeouts for bridge server...
+[03:53:51.483] info:  The module command processing loop was exited unexpectedly, either due to timing out or some other command queue issue.
+[03:53:51.483] info:  Command processing loop finished, cleaning up and exiting...
+[03:53:51.483] info:  Shutdown cleanup successful, exiting now!
+[03:53:51.483] info:  [Uptime]: 104s
