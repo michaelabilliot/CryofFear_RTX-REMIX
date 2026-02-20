@@ -1,0 +1,25 @@
+// Paranoia's weapon selection menu settings file
+
+// All x/y sizes must be set in 640x480 space
+
+// RenderModes are:
+//	0 - Normal		src
+//	1 - TransColor	c*a+dest*(1-a)
+//	2 - TransTexture	src*a+dest*(1-a)
+//	3 - Glow		src*a+dest -- No Z buffer checks
+//	4 - TransAlpha	src*srca+dest*(1-srca)
+//	5 - TransAdd	src*a+dest
+
+SizeX		136	// size of one weapon image
+SizeY		36
+Scale		0.4	// for inactive column
+MinAlpha		0.35	// inactive
+MaxAlpha		0.8	// active
+Speed		5
+RenderMode	4
+OfsX		10	// distance from top left corner
+OfsY		10
+SpaceX		5	// distance between columns
+SpaceY		2	// distance between slots
+NumberSizeX	12
+NumberSizeY	12

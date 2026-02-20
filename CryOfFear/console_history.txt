@@ -1,0 +1,13 @@
+map c_start
+net_graph 1
+map c_start
+gl_frust
+help
+r_novis 1
+r_novis 0
+map c_start
+net graph 1
+net_graph 1
+wtf lmao
+net_graph 1
+map c_start
