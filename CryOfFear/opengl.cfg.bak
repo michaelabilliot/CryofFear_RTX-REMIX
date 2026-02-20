@@ -4,7 +4,7 @@
 //=======================================================================
 gl_allow_extensions "1"
 gl_anisotropy "1"
-gl_arb_multitexture "1"
+gl_arb_multitexture "0"
 gl_buffer_storage "1"
 gl_check_errors "1"
 gl_clamp_to_edge "1"
