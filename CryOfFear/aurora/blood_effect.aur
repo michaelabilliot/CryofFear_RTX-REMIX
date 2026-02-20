@@ -1,0 +1,32 @@
+"particles" "100"
+"maintype" "galaxy"
+
+{
+  "name" "galaxy"
+  "spraytype" "layer"
+  "sprayrate" "10"
+  "sprayforce" "40"
+  "sprayyaw" "0..360"
+  "spraypitch" "90"
+  "lifetime" "3"
+}
+
+{
+  "name" "layer"
+  "gravity" "-90"
+  "sprite" "sprites/bloodspray.spr"
+  "startalpha" "0.8"
+  "endalpha" "0"
+  "lifetime" "1"
+  "startsize" "15"
+  "endsize" "80"
+  "startangle" "0"
+  "angledelta" "25..-25"
+  "startred" "4"
+  "endred" "4"
+  "startgreen" "0"
+  "endgreen" "0"
+  "startblue" "0"
+  "endblue" "0"
+  "rendermode" "solid"
+}

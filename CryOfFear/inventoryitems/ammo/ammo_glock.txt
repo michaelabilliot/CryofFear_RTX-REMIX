@@ -1,0 +1,19 @@
+"nice_name"
+{
+	data	"Glock Ammo"
+}
+
+"classname"
+{
+	data	"ammo_glock"
+}
+
+"inventory_picture"
+{
+	data	"gfx/vgui/ammo/glock_slot.tga"
+}
+
+"check_picture"
+{
+	data	"gfx/vgui/ammo/glock_check.tga"
+}

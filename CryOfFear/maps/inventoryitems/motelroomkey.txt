@@ -1,0 +1,52 @@
+"map_name"
+{
+	data	"motelroomkey"
+}
+
+
+"nice_name"
+{
+	data	"rusty key"
+}
+
+
+"classname"
+{
+	data	"item_key"
+}
+
+
+"inventory_picture"
+{
+	data	"gfx/vgui/items/motelroomkey/640_motelroomkey_slot.tga"
+}
+
+
+"quick_picture"
+{
+	data	"gfx/vgui/items/motelroomkey/640_motelroomkey_slot.tga"
+}
+
+
+"3dmdl"
+{
+	data	"models/items/nyckel2.mdl"
+}
+
+
+"check_picture"
+{
+	data	"gfx/vgui/items/motelroomkey/640_motelroomkey_check.tga"
+}
+
+
+"pickup_sound"
+{
+	data	"buttons/button5.wav"
+}
+
+
+"droppable"
+{
+	data	"1"
+}

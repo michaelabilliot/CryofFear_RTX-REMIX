@@ -1,0 +1,224 @@
+suicide
+{
+	line1		"Tap * to resist the suicidal influence!"
+	nobutton	"attack button"
+	cfgbutton	"+attack"
+}
+
+sprint
+{
+	line1		"Hold * to sprint. The blue bar on the HUD is your stamina bar."
+	line2		"Sprinting will deplete your stamina bar quickly, so use it sparingly."
+	line3		"Your stamina will slowly recover while not sprinting or jumping. Crouching recovers faster."
+	nobutton	"sprint button"
+	cfgbutton	"+sprint"
+}
+
+nightvision
+{
+	line1		"Press * to turn nightvision on/off."
+	line2		"Nightvision does not require batteries."
+	nobutton	"flashlight button"
+	cfgbutton	"flashlight"
+}
+
+inventory
+{
+	line1		"Press * to access your inventory."
+	line2		"From here you can use, drop, equip or combine items."
+	line3		"Some items can be combined with weapons and vice versa. Mouse-over slots for hints."
+	nobutton	"inventory button"
+	cfgbutton	"+inventory"
+}
+
+quickslots
+{
+	line1		"You can put up to 3 items in your quick slots."
+	line2		"If you press * you will equip the weapon in your first quick slot."
+	line3		"This is faster than equipping through the inventory and can save your life."
+	nobutton	"quickslot button"
+	cfgbutton	"quicksel 1"
+}
+
+melee
+{
+	line1		"Press * to perform a melee attack with your weapon."
+	line2		"This will cause a small amount of damage to monsters in your immediate vicinity."
+	line3		"Use it to push attack enemies when surrounded, or out of ammo."
+	nobutton	"attack2 button"
+	cfgbutton	"+attack2"
+}
+
+ladders
+{
+	line1		"Press * to climb ladders. Once on the ladder, use directional keys to climb/descend."
+	nobutton	"use button"
+	cfgbutton	"+use"
+}
+
+dodge
+{
+	line1		"Double tap directional keys or hold * to dodge in a specific direction."
+	line2		"This is extremely useful for avoiding attacks and can save your life."
+	line3		"Dodging requires stamina, so use it wisely."
+	nobutton	"dodge button"
+	cfgbutton	"+dodge"
+}
+
+mobilelight
+{
+	line1		"Your mobile phone can be used as a source of light for navigating dark areas."
+	line2		"Press * to activate your light. The mobile light does not require batteries."
+	line3		"If you holster your mobile with the light on, a dim light will still shine through your bag."
+	nobutton	"attack1 button"
+	cfgbutton	"+attack"
+}
+
+useitems
+{
+	line1		"To use a key item, open your inventory with *."
+	line2		"From here, click the use button and then click the key item."
+	line3		"Remember to check the key item for clues if you're unsure where to use it."
+	nobutton	"inventory button"
+	cfgbutton	"+inventory"
+}
+
+usemobilephone
+{
+	line1		"To call a number with your mobile, press *."
+	line2		"From here, you can click the numbers or type them with a keyboard."
+	line3		"When you've entered the number, press the send button. Some numbers will trigger events."
+	nobutton	"weapon toggle button"
+	cfgbutton	"weapontoggle"
+}
+
+save
+{
+	line1		"You can save your game at any location with a tape recorder."
+	line2		"You are allowed to save up to 5 individual saves for multiple playthroughs."
+	line3		"Saving requires a tape in Nightmare mode. The tape can only be used 5 times."
+}
+
+ironsights
+{
+	line1		"Press * to toggle ironsights."
+	line2		"Iron sights allow you to aim precisely at the expense of limited movement."
+	nobutton	"ironsights button"
+	cfgbutton	"+attack3"
+}
+
+weaponfunctionglock
+{
+	line1		"Press * to toggle taclight on/off."
+	line2		"The taclight does not require any batteries."
+	nobutton	"weapon function button"
+	cfgbutton	"weapontoggle"
+}
+
+weaponfunctionm16
+{
+	line1		"Press * to toggle between single shot and burst fire."
+	line2		"Burst fire will fire 3 successive rounds at an extremely fast rate."
+	line3		"Burst fire comes at a price of higher difficulty in controlling the weapon."
+	nobutton	"weapon function button"
+	cfgbutton	"weapontoggle"
+}
+	
+crouch
+{
+	line1		"Hold * to crouch. When crouched, you can navigate into tight areas."
+	line2		"Crouching also helps recover your stamina faster, but you cannot move as fast."
+	nobutton 	"crouch button"
+	cfgbutton	"+duck"
+}
+
+objectives
+{
+	line1		"Press * to view current objective."
+	nobutton 	"objectives button"
+	cfgbutton	"+objectives"
+}
+
+objective_a
+{
+	line1		"Find a code to the padlock."
+}
+
+objective_b
+{
+	line1		"Help the person on the fourth floor."
+}
+
+objective_c
+{
+	line1		"Reach the basement."
+}
+
+objective_d
+{
+	line1		"Find a video player."
+}
+
+objective_e
+{
+	line1		"Escape the apartments with the elevator."
+}
+
+objective_f
+{
+	line1		"Reach Hansson Square through Saxon Avenue."
+}
+
+objective_g
+{
+	line1		"Follow the doctor."
+}
+
+objective_h
+{
+	line1		"Retrieve 2 fuses to Hansson Square. One is located in Saxon Avenue."
+}
+
+objective_i
+{
+	line1		"Bring both fuses from the blue line to escape with the train."
+}
+
+objective_j
+{
+	line1		"Find your way out of the forest."
+}
+
+objective_k
+{
+	line1		"Open the gate blocking the staircase. Needs electricity?"
+}
+
+objective_l
+{
+	line1		"Locate the doctor."
+}
+
+objective_m
+{
+	line1		"Go to the attic to see if the doctor is there."
+}
+
+objective_n
+{
+	line1		"Escape the Mental Hospital."
+}
+
+objective_o
+{
+	line1		"Find your way home."
+}
+objective_p
+{
+	line1		"Bring the fuse to Saxon Avenue."
+}
+
+objective_q
+{
+	line1		"Find a phone number."
+}

@@ -1,0 +1,410 @@
+Node Graph Report for map:  c_down.bsp
+11 Total Nodes
+
+Node#            0
+Location       900,-2022,-764
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            1
+Location       901,-2428,-764
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            2
+Location       666,-2225,-764
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            3
+Location       771,-2223,-764
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            4
+Location       772,-2125,-764
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            5
+Location       787,-2325,-764
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            6
+Location       908,-2325,-764
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            7
+Location      1028,-2327,-764
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            8
+Location      1027,-2227,-764
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            9
+Location       900,-2129,-764
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           10
+Location      1020,-2128,-764
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+LinkVisibleNodes - Initial Connections
+----------------------------------------------------------------------------
+Node #   0:
+
+   3  Entity on connection: func_door, name: door1  Model: *15
+   4  Entity on connection: func_wall, name:   Model: *14
+   5  Entity on connection: func_door, name: door1  Model: *15
+   6  Entity on connection: func_door, name: door1  Model: *15
+   7  Entity on connection: func_door, name: door1  Model: *15
+   8  Entity on connection: func_door, name: door1  Model: *15
+   9  Entity on connection: func_door, name: door1  Model: *15
+  10  Entity on connection: func_wall, name:   Model: *14
+----------------------------------------------------------------------------
+Node #   1:
+
+   3  Entity on connection: func_door, name: door2  Model: *16
+   4  Entity on connection: func_door, name: door2  Model: *16
+   5  Entity on connection: func_door, name: door2  Model: *16
+   6  Entity on connection: func_door, name: door2  Model: *16
+   8  Entity on connection: func_door, name: door2  Model: *16
+   9  Entity on connection: func_door, name: door2  Model: *16
+  10  Entity on connection: func_door, name: door2  Model: *16
+----------------------------------------------------------------------------
+Node #   2:
+
+   3  Entity on connection: func_door, name: door3  Model: *17
+   6  Entity on connection: func_door, name: door3  Model: *17
+   7  Entity on connection: func_door, name: door3  Model: *17
+   8  Entity on connection: func_door, name: door3  Model: *17
+   9  Entity on connection: func_door, name: door3  Model: *17
+  10  Entity on connection: func_door, name: door3  Model: *17
+----------------------------------------------------------------------------
+Node #   3:
+
+   0  Entity on connection: func_door, name: door1  Model: *15
+   1  Entity on connection: func_door, name: door2  Model: *16
+   2  Entity on connection: func_door, name: door3  Model: *17
+   4
+   5
+   6
+   7
+   8
+   9
+  10
+----------------------------------------------------------------------------
+Node #   4:
+
+   0  Entity on connection: func_wall, name:   Model: *14
+   1  Entity on connection: func_door, name: door2  Model: *16
+   3
+   5
+   6
+   7
+   8
+   9
+  10
+----------------------------------------------------------------------------
+Node #   5:
+
+   0  Entity on connection: func_door, name: door1  Model: *15
+   1  Entity on connection: func_door, name: door2  Model: *16
+   3
+   4
+   6
+   7
+   8
+   9
+  10
+----------------------------------------------------------------------------
+Node #   6:
+
+   0  Entity on connection: func_door, name: door1  Model: *15
+   1  Entity on connection: func_door, name: door2  Model: *16
+   2  Entity on connection: func_door, name: door3  Model: *17
+   3
+   4
+   5
+   7
+   8
+   9
+  10
+----------------------------------------------------------------------------
+Node #   7:
+
+   0  Entity on connection: func_door, name: door1  Model: *15
+   2  Entity on connection: func_door, name: door3  Model: *17
+   3
+   4
+   5
+   6
+   8
+   9
+  10
+----------------------------------------------------------------------------
+Node #   8:
+
+   0  Entity on connection: func_door, name: door1  Model: *15
+   1  Entity on connection: func_door, name: door2  Model: *16
+   2  Entity on connection: func_door, name: door3  Model: *17
+   3
+   4
+   5
+   6
+   7
+   9
+  10
+----------------------------------------------------------------------------
+Node #   9:
+
+   0  Entity on connection: func_door, name: door1  Model: *15
+   1  Entity on connection: func_door, name: door2  Model: *16
+   2  Entity on connection: func_door, name: door3  Model: *17
+   3
+   4
+   5
+   6
+   7
+   8
+  10
+----------------------------------------------------------------------------
+Node #  10:
+
+   0  Entity on connection: func_wall, name:   Model: *14
+   1  Entity on connection: func_door, name: door2  Model: *16
+   2  Entity on connection: func_door, name: door3  Model: *17
+   3
+   4
+   5
+   6
+   7
+   8
+   9
+----------------------------------------------------------------------------
+
+  98 Total Initial Connections -   10 Maximum connections for a single node.
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+Walk Rejection:
+-------------------------------------------------------------------------------
+Node    0:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   3 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  10 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   4 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   8 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node   6 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    1:
+
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node   5 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node   8 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   9 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    2:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   3 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  10 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   9 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   8 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   7 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   6 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    3:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   0 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node   2 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   7 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   8 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    4:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   0 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node   6 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   7 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+-------------------------------------------------------------------------------
+Node    5:
+
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node   1 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  10 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node   8 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    6:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   0 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node   2 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   9 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   4 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    7:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   0 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   2 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node   3 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   4 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    8:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   0 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   1 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   2 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   3 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node   5 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    9:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   1 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   2 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   5 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node   6 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node   10:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   0 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node   2 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node   5 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+-------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+InLine Rejection:
+----------------------------------------------------------------------------
+Node   0:
+----------------------------------------------------------------------------
+
+Node   1:
+----------------------------------------------------------------------------
+
+Node   2:
+----------------------------------------------------------------------------
+
+Node   3:
+----------------------------------------------------------------------------
+
+Node   4:
+REJECTED NODE  10 through Node   9, Dot = 0.999817
+----------------------------------------------------------------------------
+
+Node   5:
+REJECTED NODE   7 through Node   6, Dot = 0.999966
+----------------------------------------------------------------------------
+
+Node   6:
+----------------------------------------------------------------------------
+
+Node   7:
+REJECTED NODE  10 through Node   8, Dot = 0.999545
+REJECTED NODE   5 through Node   6, Dot = 0.999965
+----------------------------------------------------------------------------
+
+Node   8:
+----------------------------------------------------------------------------
+
+Node   9:
+----------------------------------------------------------------------------
+
+Node  10:
+REJECTED NODE   4 through Node   9, Dot = 0.999791
+REJECTED NODE   7 through Node   8, Dot = 0.999538
+----------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------------------------
+Link Pairings:
+WARNING: Node   2 does not connect back to Node   0
+WARNING: Node   1 does not connect back to Node   3
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+Total Number of Connections in Pool: 48
+-------------------------------------------------------------------------------
+Connection Pool: 1152 bytes
+-------------------------------------------------------------------------------

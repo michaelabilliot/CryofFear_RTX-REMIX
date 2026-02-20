@@ -1,0 +1,39 @@
+struct FragOut_s
+{
+	float4 flColor : COLOR;
+};
+
+struct VertIn_s
+{
+	float4 flPos : POSITION;
+	float4 flTexCoord0 : TEXCOORD0;
+	float4 flTexCoord1 : TEXCOORD1;
+	float4 flTexCoord2 : TEXCOORD2;
+	float4 flTexCoord3 : TEXCOORD3;
+};
+
+FragOut_s main( in VertIn_s IN, 
+			   uniform sampler2D OffsetTex : TEXUNIT0,
+			   uniform sampler2D Identity : TEXUNIT1,
+			   uniform sampler2D DecalTex : TEXUNIT2,
+			   uniform sampler2D MaskTex : TEXUNIT3,
+			   uniform float4 TexOffset )
+{
+	FragOut_s OUT;
+
+	float4 flColor= tex2D( OffsetTex, IN.flTexCoord0 );
+
+	float4 flPrevLookup = tex2D( Identity, flColor.gb );
+
+
+	OUT.flColor = offsettex2D( DecalTex, IN.flTexCoord2.xy, flPrevLookup, TexOffset );
+	
+	OUT.flColor.a = 1;
+	
+	float flMask = tex2D( MaskTex, IN.flTexCoord3.xy ).r;
+
+
+	OUT.flColor = OUT.flColor *( flMask );
+	
+	return OUT;
+}

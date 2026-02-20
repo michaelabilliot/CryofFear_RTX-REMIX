@@ -1,0 +1,224 @@
+suicide
+{
+	line1		"Drücke * um dem Suizideinfluß zu widerstehen!"
+	nobutton	"Primäre Angriffstaste"
+	cfgbutton	"+attack"
+}
+
+sprint
+{
+	line1		"Halte * gedrückt, um zu sprinten. Der blaue Balken im HUD ist dein Stamina."
+	line2		"Sprinten/Springen verbraucht dein Stamina sehr rasch, setze es also sparsam ein."
+	line3		"Stamina erholt sich langsam, in der Hocke erholst du dich schneller."
+	nobutton	"Sprinttaste"
+	cfgbutton	"+sprint"
+}
+
+nightvision
+{
+	line1		"Drücke * um Nachtsicht ein- oder auszuschalten."
+	line2		"Nachtsicht braucht keine Batterien."
+	nobutton	"Taschenlampentaste"
+	cfgbutton	"flashlight"
+}
+
+inventory
+{
+	line1		"Drücke * um in dein Inventar zu gelangen."
+	line2		"Hier kannst du Gegenstände benützen, wegwerfen, kombinieren oder ausrüsten."
+	line3		"Manche Gegenstände können mit Waffen kombiniert werden. Achte auf die Item Infos."
+	nobutton	"Inventartaste"
+	cfgbutton	"+inventory"
+}
+
+quickslots
+{
+	line1		"Du kannst bist zu 3 Gegenstände in die Quickslots legen."
+	line2		"Wenn du * drückst, rüstest du dich mit der Waffe im ersten Slot aus."
+	line3		"Dies ist schneller, als über das Inventar und kann dein Leben retten."
+	nobutton	"Quickslot Taste"
+	cfgbutton	"quicksel 1"
+}
+
+melee
+{
+	line1		"Drücke * um eine Nahkampfattacke mit deiner Waffe zu vollziehen."
+	line2		"Dies gibt den Monstern in deiner unmittelbaren Nähe ein wenig Schaden."
+	line3		"Nütze Nahkampf, wenn du umzingelt bist oder keine Munition mehr hast."
+	nobutton	"Sekundäre Angriffstaste"
+	cfgbutton	"+attack2"
+}
+
+ladders
+{
+	line1		"Drücke * um Leitern zu benützen und Richtungstasten zum Auf- oder Absteigen."
+	nobutton	"Benutzentaste"
+	cfgbutton	"+use"
+}
+
+dodge
+{
+	line1		"Drücke eine Richtungstaste doppelt oder halte * gedrückt, um auszuweichen."
+	line2		"Ausweichen ist sehr hilfreich und kann dir dein Leben retten."
+	line3		"Ausweichen verbraucht Stamina, geh also sparsam damit um."
+	nobutton	"Ausweichstaste"
+	cfgbutton	"+dodge"
+}
+
+mobilelight
+{
+	line1		"Dein Handy kann als Lichtquelle in dunklen Gebieten verwendet werden."
+	line2		"Drücke * um das Licht zu aktivieren. Das Handylicht verbraucht keine Batterien."
+	line3		"Wenn du dein Handy mit eingeschaltetem Licht einpackst, strahlt es Licht aus."
+	nobutton	"Primäre Angriffstaste"
+	cfgbutton	"+attack"
+}
+
+useitems
+{
+	line1		"Um einen besonderen Gegenstand zu verwenden, öffne dein Inventar mit *."
+	line2		"Klick auf USE und dann auf den gewünschten Gegenstand."
+	line3		"Betrachte die besonderen Gegenstände für Hinweise über deren Benutzung."
+	nobutton	"Inventartaste"
+	cfgbutton	"+inventory"
+}
+
+usemobilephone
+{
+	line1		"Um eine Nummer mit dem Handy anzurufen, drücke *."
+	line2		"Hier kannst du die Nummern anklicken oder direkt am Keyboard eingeben."
+	line3		"Anschließend drücke die "send" Taste. Manche Nummern lösen Ereignisse aus."
+	nobutton	"Waffenumschalttaste"
+	cfgbutton	"weapontoggle"
+}
+
+save
+{
+	line1		"Du kannst deinen Spielstand bei jedem Tonbandgerät speichern."
+	line2		"Du kannst bis zu 5 verschiedene Spielstände für jeden Spieldurchgang verwenden."
+	line3		"Speichern braucht ein Tonband im Nightmare Modus (maximal fünf)."
+}
+
+ironsights
+{
+	line1		"Drücke * um die Eisenvisierung zu aktivieren oder deaktivieren."
+	line2		"Eisenvisierung erlaubt dir, genauer zu zielen auf Kosten von Bewegung."
+	nobutton	"Eisenvisierungstaste"
+	cfgbutton	"+attack3"
+}
+
+weaponfunctionglock
+{
+	line1		"Drücke * um das Taclight ein- oder auszuschalten."
+	line2		"Das Taclight verbraucht keine Batterien."
+	nobutton	"Waffenfunktionstaste"
+	cfgbutton	"weapontoggle"
+}
+
+weaponfunctionm16
+{
+	line1		"Drücke * um zwischen Einzelschuss und Feuerstoß umzuschalten."
+	line2		"Bei Feuerstoß werden drei Schüsse in schneller Folge automatisch abgefeuert."
+	line3		"Bei Feuerstoß ist die Waffe auch schwerer zu kontrollieren."
+	nobutton	"Waffenfunktionstaste"
+	cfgbutton	"weapontoggle"
+}
+	
+crouch
+{
+	line1		"Halte * gedrückt, um in die Hocke zu gehen und durch schmale Gebiete zu kommen."
+	line2		"In der Hocke erholt sich dein Stamina schneller, aber du bewegst dich langsamer."
+	nobutton 	"Hocketaste"
+	cfgbutton	"+duck"
+}
+
+objectives
+{
+	line1		"Drücke * um deine momentanen Ziele anzusehen."
+	nobutton 	"Ziele anzeigen"
+	cfgbutton	"+objectives"
+}
+
+objective_a
+{
+	line1		"Finde die Kombination für das Schloss."
+}
+
+objective_b
+{
+	line1		"Hilf der Person im vierten Stock."
+}
+
+objective_c
+{
+	line1		"Geh in den Keller."
+}
+
+objective_d
+{
+	line1		"Such nach einem Videogerät."
+}
+
+objective_e
+{
+	line1		"Verlasse das Wohnhaus mit dem Lift."
+}
+
+objective_f
+{
+	line1		"Geh nach Reach Hansson Square über Saxon Avenue."
+}
+
+objective_g
+{
+	line1		"Folge dem Doktor."
+}
+
+objective_h
+{
+	line1		"Bring zwei Sicherungen nach Hansson Square. Eine davon ist in Saxon Avenue."
+}
+
+objective_i
+{
+	line1		"Bring beide Sicherungen von der blauen Zuglinie und flüchte mit dem Zug."
+}
+
+objective_j
+{
+	line1		"Finde einen Weg aus dem Wald."
+}
+
+objective_k
+{
+	line1		"Öffne das Tor, das die Stiegen blockiert. Braucht es vielleicht Strom?"
+}
+
+objective_l
+{
+	line1		"Finde den Doktor."
+}
+
+objective_m
+{
+	line1		"Geh hinauf in den Dachboden und sieh nach, ob sich der Doktor dort befindet."
+}
+
+objective_n
+{
+	line1		"Flüchte aus der psychiatrischen Anstalt."
+}
+
+objective_o
+{
+	line1		"Finde einen Weg nach Hause."
+}
+objective_p
+{
+	line1		"Bring die Sicherung nach Saxen Avenue."
+}
+
+objective_q
+{
+	line1		"Finde eine Telefonnummer."
+}

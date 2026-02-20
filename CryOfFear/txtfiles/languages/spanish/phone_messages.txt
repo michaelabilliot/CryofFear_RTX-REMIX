@@ -1,0 +1,9 @@
+"¿Dónde estás? Vuelve a casa lo antes posible. Está oscureciendo."
+"Mira a la derecha."
+"¡¡Ayudame!! ¡¡Por favor ayuda!! ¡Ellos están viniendo! ¡¡Estoy dentro de los apartamentos, rápido!!"
+"¡¡Cuarta planta!!"
+"Aquí."
+"Coje las escaleras, arriba, arriba, arriba. Tengo algo que mostrarte"
+"¿Estás bien? Será mejor que vuelvas a casa ahora, me estoy preocupando."
+ 
+Atencion: Batería baja

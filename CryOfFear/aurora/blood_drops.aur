@@ -1,0 +1,35 @@
+"particles" "70"
+"maintype" "sparker"
+
+{
+  "name" "sparker"
+  "spraytype" "sparks"
+  "sprayrate" "40"
+  "sprayforce" "90"
+  "spraypitch" "0"
+  "sprayyaw" "0"
+}
+
+{
+  "name" "sparks"
+  "gravity" "-90"
+  "sprite" "sprites/bloodspray.spr"
+  "startalpha" "0.2"
+  "endalpha" "0"
+  "lifetime" "0.2"
+  "startsize" 5"
+  "endsize" "2"
+  "drag" "0.1"
+  "startframe" "0..10"
+  "framerate" "20"
+  "startangle" "0..360"
+  "angledelta" "-50..50"
+  "startred" "4"
+  "endred" "4"
+  "startgreen" "0"
+  "endgreen" "0"
+  "startblue" "0"
+  "endblue" "0"
+  "collision" "bounce"
+  "bounce" "0.5"
+}

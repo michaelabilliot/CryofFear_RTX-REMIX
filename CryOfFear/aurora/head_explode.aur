@@ -1,0 +1,34 @@
+"particles" "100"
+"maintype" "smokesource"
+
+{
+  "name" "smokesource"
+  "spraytype" "smoke"
+  "sprayrate" "10"
+  "lifetime" "5"
+}
+
+{
+  "name" "smoke"
+  "lifetime" "0.5"
+  "gravity" "-70"
+  "sprite" "sprites/bloodspray.spr"
+  "startalpha" "1"
+  "endalpha" "0"
+  "startsize" "0"
+  "endsize" "40"
+  "startframe" "1"
+  "endframe" "16"
+  "startangle" "0..360"
+  "angledelta" "40..-40"
+  "startred" "6"
+  "endred" "0"
+  "startgreen" "0"
+  "endgreen" "0"
+  "startblue" "0"
+  "endblue" "0"
+  "rendermode" "solid"
+  "windyaw" "45"
+  "windstrength" "30"
+  "drag" "0"
+}

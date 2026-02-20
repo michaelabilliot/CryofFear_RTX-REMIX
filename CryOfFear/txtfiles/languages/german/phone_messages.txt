@@ -1,0 +1,9 @@
+"Wo bist du? Komm so früh wie möglich nach Hause. Es wird bereits dunkel."
+"Sieh nach rechts."
+"Hilfe!! Bitte hilf mir!! Sie kommen! Ich bin im Wohnhaus, beeil dich!!"
+"Vierter Stock!!"
+"Hier drin."
+"Nimm die Stufen, rauf, rauf, rauf. Ich muss dir was zeigen."
+"Bist du okay? Du kommst wohl besser nach Hause, ich mache mir langsam Sorgen."
+ 
+Achtung: Akku schwach

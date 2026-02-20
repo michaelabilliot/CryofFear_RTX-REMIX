@@ -1,0 +1,52 @@
+"map_name"
+{
+	data	"poolexitkey"
+}
+
+
+"nice_name"
+{
+	data	"exit door key"
+}
+
+
+"classname"
+{
+	data	"item_key"
+}
+
+
+"inventory_picture"
+{
+	data	"gfx/vgui/items/outofit/poolexitkey/640_poolexitkey_slot.tga"
+}
+
+
+"quick_picture"
+{
+	data	"gfx/vgui/items/outofit/poolexitkey/640_poolexitkey_slot.tga"
+}
+
+
+"3dmdl"
+{
+	data	"models\outofit\props\key4.mdl"
+}
+
+
+"check_picture"
+{
+	data	"gfx/vgui/items/outofit/poolexitkey/640_poolexitkey_check.tga"
+}
+
+
+"pickup_sound"
+{
+	data	"buttons/button4.wav"
+}
+
+
+"droppable"
+{
+	data	"1"
+}

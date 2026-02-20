@@ -1,0 +1,8 @@
+4
+weapon			320 320hud1	0	0	80	20
+weapon_s		320 320hud1	0	20	80	20
+weapon			640 csyringe	0	0	170	80
+weapon_s		640 csyringe	0	0	170	80
+
+crosshair		              640 cof_crosshair	0	0	32	32
+autoaim			640 cof_crosshair	0	0	32	32

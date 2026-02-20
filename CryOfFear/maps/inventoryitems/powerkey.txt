@@ -1,0 +1,46 @@
+"map_name"
+{
+	data	"powerkey"
+}
+
+
+"nice_name"
+{
+	data	"Strange Key"
+}
+
+
+"classname"
+{
+	data	"item_key"
+}
+
+
+"inventory_picture"
+{
+	data	"gfx/vgui/items/powerkey/640_powerkey_slot.tga"
+}
+
+
+"quick_picture"
+{
+	data	"gfx/vgui/items/powerkey/640_powerkey_slot.tga"
+}
+
+
+"3dmdl"
+{
+	data	"models/items/nyckel4.mdl"
+}
+
+
+"check_picture"
+{
+	data	"gfx/vgui/items/powerkey/640_powerkey_check.tga"
+}
+
+
+"droppable"
+{
+	data	"1"
+}

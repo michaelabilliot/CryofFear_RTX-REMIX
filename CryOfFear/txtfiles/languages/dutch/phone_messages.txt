@@ -1,0 +1,9 @@
+"Waar ben je? Kom snel thuis. Het wordt donker."
+"Kijk rechts."
+"Help me!! Ze komen! Ik ben in de apartementen, vlug!!"
+"Vierde verdieping!!"
+"Hierbinnen."
+"Neem de trap naar boven. Ik wil je iets laten zien."
+"Is alles goed? Kom thuis, ik ben bezorgd."
+ 
+Waarschuwing: Batterij bijna leeg

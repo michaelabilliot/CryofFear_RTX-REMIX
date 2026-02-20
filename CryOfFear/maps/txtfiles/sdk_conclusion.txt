@@ -1,0 +1,63 @@
+#Conclusion
+
+"Hello! This is Andreas Rönnberg speaking, I'd 
+
+just like to go through a couple of things to this SDK.
+
+We are not allowing anyone to use content from Cry of Fear
+
+in their own mods. We only allow people to use the CoF
+
+content to Cry of Fear itself, to for example mappacks
+
+and such. Hence why we haven't released the source code.
+
+
+
+Also if you want your maps and stuff to be integrated
+
+into Cry of Fear (so everyone who is playing Cry of Fear
+
+can play it from the main menu), you must not edit any
+
+Cry of Fear files, only add new files. For example if
+
+you want to edit a monster, copy the monster and edit
+
+the copied monster, not the original monster.
+
+
+
+When you are done with your campaign or mappack, PM
+
+ruMpel or James on the forums so we can discuss about
+
+your stuff. If you have edited any Cry of Fear files, we
+
+will not approve your mod and not integrate it into
+
+Cry of Fear. However if everything is fine and we do
+
+integrate your campaign, you will of course have your
+
+name or team name next to your custom campaign.
+
+
+
+We will help you as much as we can to get your
+
+mappack/campaign into the mod. Just register on our forums
+
+and ask us questions if you are stuck on anything. Visit
+
+the forums at www.cry-of-fear.com/forum. We do support you!
+
+
+
+But keep in mind that this is not anything you can use
+
+to your own mods, still, only for Cry of Fear.
+
+
+
+Thank you, and happy modding!"

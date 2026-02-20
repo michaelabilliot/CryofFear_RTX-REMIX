@@ -1,0 +1,29 @@
+struct VertOut_s
+{
+	float4 flPos : POSITION;
+	float4 flTexCoord0 : TEXCOORD0;
+	float4 flTexCoord1 : TEXCOORD1;
+	float4 flTexCoord2 : TEXCOORD2;
+	float4 flTexCoord3 : TEXCOORD3;
+};
+
+
+VertOut_s main( in float4 flPos : POSITION,
+			   in float4 flTexCoord0 : TEXCOORD0,
+			   uniform float4x4 ModelViewProj,
+			   in uniform float flScreen)
+{
+	VertOut_s OUT;
+	OUT.flTexCoord0 = flTexCoord0;
+//	OUT.flTexCoord0.y = flTexCoord0.y * ( 1024 );
+	OUT.flTexCoord1 = flTexCoord0;
+	OUT.flTexCoord2 = flTexCoord0;
+	OUT.flTexCoord2.y = flTexCoord0.y + ( flScreen );
+	OUT.flTexCoord3 = flTexCoord0;
+
+	OUT.flPos = mul( ModelViewProj, flPos );
+
+	return OUT;
+}
+
+

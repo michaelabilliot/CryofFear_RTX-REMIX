@@ -1,0 +1,52 @@
+"map_name"
+{
+	data	"motelexitkey"
+}
+
+
+"nice_name"
+{
+	data	"old key"
+}
+
+
+"classname"
+{
+	data	"item_key"
+}
+
+
+"inventory_picture"
+{
+	data	"gfx/vgui/items/motelexitkey/640_motelexitkey_slot.tga"
+}
+
+
+"quick_picture"
+{
+	data	"gfx/vgui/items/motelexitkey/640_motelexitkey_slot.tga"
+}
+
+
+"3dmdl"
+{
+	data	"models/items/nyckel1.mdl"
+}
+
+
+"check_picture"
+{
+	data	"gfx/vgui/items/motelexitkey/640_motelexitkey_check.tga"
+}
+
+
+"pickup_sound"
+{
+	data	"buttons/button5.wav"
+}
+
+
+"droppable"
+{
+	data	"1"
+}

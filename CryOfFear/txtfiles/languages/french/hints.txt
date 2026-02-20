@@ -1,0 +1,224 @@
+suicide
+{
+	line1		"Tap * pour résister à la tentation du suicide!"
+	nobutton	"bouton d'attaque"
+	cfgbutton	"+attack"
+}
+
+sprint
+{
+	line1		"Maintenir * pour sprinter. La barre bleue du HUD est votre barre d'endurance. Sprinter"
+	line2		"videra rapidement votre barre d'endurance, utilisez-là avec parcimonie. Votre endurance"
+	line3		"remontera doucement quand vous ne courrez/sautez pas. Vous baisser la remonte plus vite."
+	nobutton	"bouton de sprint"
+	cfgbutton	"+sprint"
+}
+
+nightvision
+{
+	line1		"Presser * pour activer/éteindre la vision de nuit."
+	line2		"La vision de nuit ne nécessite pas de batterie."
+	nobutton	"bouton de la torche"
+	cfgbutton	"flashlight"
+}
+
+inventory
+{
+	line1		"Presser * pour accéder à l'inventaire."
+	line2		"D'ici, vous pouvez utiliser, enlever, équiper ou combiner du matériel. Certains items"
+	line3		"peuvent être combinés avec des armes. Passez la souris sur les cases pour des tuyaux."
+	nobutton	"bouton d'inventaire"
+	cfgbutton	"+inventory"
+}
+
+quickslots
+{
+	line1		"Vous pouvez mettre jusqu'à 3 items dans l'inventaire rapide."
+	line2		"Si vous pressez * vous prendrez le premier item de l'inventaire raide."
+	line3		"Beaucoup plus rapide que d'aller dans l'inventaire, cela peut sauver votre vie."
+	nobutton	"bouton d'inventaire rapide"
+	cfgbutton	"quicksel 1"
+}
+
+melee
+{
+	line1		"Pressez * pour faire un corps-à-corps avec votre arme."
+	line2		"Cela causera un peu de dégâts aux monstres dans votre proximité immédiate."
+	line3		"Utilisez cette attaque quand vous êtes entouré d'ennemis, ou sans munitions."
+	nobutton	"bouton d'attaque2"
+	cfgbutton	"+attack2"
+}
+
+ladders
+{
+	line1		"Pressez * pour aller sur l'échelle. Une fois dessus, utilisez les flèches pour descendre."
+	nobutton	"bouton d'utilisation"
+	cfgbutton	"+use"
+}
+
+dodge
+{
+	line1		"Tapez 2 fois sur les flèches ou pressez * pour esquiver dans une direction."
+	line2		"Très utile pour esquiver les attaques et ainsi sauver votre vie"
+	line3		"Esquiver consomme de l'endurance, donc utilisez-là sagement."
+	nobutton	"bouton d'esquive"
+	cfgbutton	"+dodge"
+}
+
+mobilelight
+{
+	line1		"Votre téléphone mobile peut-être utilisé comme source de lumière, dans les endroits sombres."
+	line2		"Pressez * pour activer la lumière. Pas besoin de batteries. Si vous rangez"
+	line3		"le téléphone avec la lumière allumée, un faible éclairage brillera de votre sac."
+	nobutton	"bouton d'attaque1"
+	cfgbutton	"+attack"
+}
+
+useitems
+{
+	line1		"To use a key item, open your inventory with *."
+	line2		"From here, click the use button and then click the key item."
+	line3		"Remember to check the key item for clues if you're unsure where to use it."
+	nobutton	"inventory button"
+	cfgbutton	"+inventory"
+}
+
+usemobilephone
+{
+	line1		"Pour appeler un numéro avec votre portable, pressez *."
+	line2		"D'ici, vous pouvez cliquer sur les chiffres ou les taper au clavier. Quand vous avez"
+	line3		"entré le numéro, pressez le bouton d'envoi. Certains numéros déclenchent des événements."
+	nobutton	"bouton arme bascule"
+	cfgbutton	"weapontoggle"
+}
+
+save
+{
+	line1		"Vous pouvez sauvegarder n'importe où avec un dictaphone."
+	line2		"Vous êtes autorisé à sauvegarder jusqu'à 5 fois différentes, pour de multiples parties."
+	line3		"Sauvegarder nécessite une cassette en mode Cauchemar. Elle ne peut être utilisée QUE 5 fois."
+}
+
+ironsights
+{
+	line1		"Pressez * pour activer le viseur."
+	line2		"Viseur = plus de précision, mais vos mouvements seront plus limités."
+	nobutton	"bouton de viseur"
+	cfgbutton	"+attack3"
+}
+
+weaponfunctionglock
+{
+	line1		"Pressez * pour activer/éteindre la lampe-torche de l'arme."
+	line2		"Ne nécessite pas de batteries."
+	nobutton	"bouton fonction arme"
+	cfgbutton	"weapontoggle"
+}
+
+weaponfunctionm16
+{
+	line1		"Pressez * pour switcher entre tir unique et rafale."
+	line2		"La rafale tire 3 balles extrêmement rapidement."
+	line3		"Le problème de la rafale est une moins bonne maîtrise de l'arme."
+	nobutton	"bouton fonction arme"
+	cfgbutton	"weapontoggle"
+}
+	
+crouch
+{
+	line1		"Maintenir * pour s'abaisser. Quand vous êtes accroupis, vous pouvez aller dans les zones étroites."
+	line2		"Vous accroupir augmente plus vite la barre d'endurance, mais vous avancez moins rapidement."
+	nobutton 	"bouton accroupi"
+	cfgbutton	"+duck"
+}
+
+objectives
+{
+	line1		"Pressez * pour voir vos objectifs."
+	nobutton 	"bouton objectif"
+	cfgbutton	"+objectives"
+}
+
+objective_a
+{
+	line1		"Trouvez le code du cadenas."
+}
+
+objective_b
+{
+	line1		"Aidez la personne au 4ème étage."
+}
+
+objective_c
+{
+	line1		"Atteignez le sous-sol."
+}
+
+objective_d
+{
+	line1		"Trouvez un lecteur de vidéo."
+}
+
+objective_e
+{
+	line1		"Fuyez les appartements, via l'ascenceur."
+}
+
+objective_f
+{
+	line1		"Atteignez Hansson Square via Saxon Avenue."
+}
+
+objective_g
+{
+	line1		"Suivez le médecin."
+}
+
+objective_h
+{
+	line1		"Retrouvez 2 fusibles à Hansson Square. L'un se trouve in Saxon Avenue."
+}
+
+objective_i
+{
+	line1		"Amenez les 2 fusibles de la ligne bleue pour vous enfuir avec le train."
+}
+
+objective_j
+{
+	line1		"Echappez-vous de la forêt."
+}
+
+objective_k
+{
+	line1		"Ouvrez la porte bloquant la cage d'escalier. Besoin d'électricité?"
+}
+
+objective_l
+{
+	line1		"Trouvez le docteur."
+}
+
+objective_m
+{
+	line1		"Allez au cellier pour voir si le docteur s'y trouve."
+}
+
+objective_n
+{
+	line1		"Echappez-vous de l'Hôpital Psychiatrique."
+}
+
+objective_o
+{
+	line1		"Rentrez à la maison."
+}
+objective_p
+{
+	line1		"Amenez le fusible à Saxon Avenue."
+}
+
+objective_q
+{
+	line1		"Trouvez un numéro de téléphone."
+}

@@ -1,0 +1,9 @@
+"Vart är du? Kom hem så fort som möjligt. Det börjar bli sent."
+"Kolla åt höger."
+"Hjälp mig!! Snälla hjälp!! De kommer! Jag är inne i lägenheterna, skynda!!"
+"Fjärde våningen!!"
+"Här inne."
+"Ta trapporna, upp, upp, upp. Jag har något att visa dig."
+"Är allt bra? Du måste komma hem nu, Jag börjar bli orolig."
+
+Varning: Lågt batteri

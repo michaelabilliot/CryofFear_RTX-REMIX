@@ -1,0 +1,144 @@
+#CRY OF FEAR
+
+
+#Team Psykskallar:
+
+Andreas "ruMpel" Rönnberg
+Leader / Level Designer / Lead Props-NPC-Monster Modeller /
+Lead Music / Lead Animator / NPC-Monster-Cutscene Animator / 
+Lead 2D Artist / Sound Artist
+
+James "Minuit" Marchant
+Leader / Programmer / Props Modeller / 2D Artist /
+Animator / Sound Artist
+
+Jordy "Sporkeh" Boerema
+Weapon Modeller / Weapon Skinner / Weapon Animator
+
+Stig "DragonNOR" Sydtangen
+QA Tester / Voice Actor - Simon
+
+Lasse "Berzerk" Holmen
+QA Tester / Voice Actor - Doctor
+
+Aina Hatlevik
+Voice Actor - Sophie
+
+
+#Special thanks:
+
+NPC MODELS:
+Jacek "Wonrz" Lygas
+Krisztián "Szilajmaggot" Kristofoletti
+
+WEAPON MODELS:
+Michael "RedRogueXIII" Cecconet
+Toby "Sureshot" Arnold
+Tim "Milo" Curry
+
+WEAPON TEXTURES:
+Tim "Milo" Curry
+Eric "Acidsnake" Perras
+Matt "Cyper" Myers
+Hans "Millenia" Palm
+
+ANIMATION:
+Kristian "Toadie" Miller
+
+VOICE ACTING POLICE:
+Ian "Dr. Doozer" Wiese
+
+PROGRAMMING:
+Johnathan "Technoblue" Williams
+Yriy "BUzer" Sitnikov
+Aleksey "Wargon" Davydov
+Jason "ssjason123" Matson
+
+MUSIC:
+Philipp "Muddasheep" Lehner
+Brandon "bXmMusic" McKagan
+Patrik Jansson
+
+SOUND DESIGN:
+www.soundsnap.com
+
+TESTER:
+Brandon "bXmMusic" McKagan
+
+TRANSLATIONS:
+Andreas "ruMpel" Rönnberg - Swedish
+Philipp "Muddasheep" Lehner - German
+Jordy "Sporkeh" Boerema - Dutch
+Lasse "Berzerk" Holmen - Norwegian
+rod0411 - French
+Garioncete - Spanish
+Ketevan Bakhtadze - Russian
+
+WEBSITE:
+Sascha "ToTac" Sparn
+
+IDEAS:
+Christopher Rönnberg
+Emma Söderman
+Nic Walker
+
+DONATORS:
+ CheezToaster   /   Greer   /   Mr. Sunabouzu
+ DiamonD   /   Zang-Pog   /   Snickerz
+Dimfire   /   Clay   /   Fereyen
+  Danboe   /   Glayer776   /   SMasters
+        Dridje   /   Griffirid   /   TheNickISQuick
+      Rick   /   Arr4err   /   CaddyShack
+   Lariat   /   Cheshyre   /   jc_denton
+    Pravus   /   Cliffton Vlodhammer   /   Madcat1030
+      Archande   /   Chaotic94   /   DynamiteHeaddy
+ LoneWolf616   /   LILmighty   /   RoninMastaFX
+   Elkinda   /   Zud0   /   Gameguru09
+       Fidchell   /   Thepro1234   /   KingOblivion411
+     Kedgeree   /   Mazzma   /   Angry Penguin
+   Deidrel   /   Hells High   /   Garioncete
+Wangman   /   shadowvipersakru   /   Nuclear
+   Dr.Cola   /   Sneed   /   Technoblue
+   BARKARR   /   Sence   /   Kadersalad
+Dr Pepper   /   Mizu   /   Eddie.Lin
+      Dceased   /   Randomgerbil   /   CDblunderbuss
+   Sivulla   /   E3Pointman   /   BakedBread
+       Cocyx   /   HEVIS   /   Funeral Wolf
+Serbian101   /   Cheese Ball   /   ryan322452
+  Robofork   /   Cheesezorz   /   LiveMChief
+     Gazyi   /   Don Joni   /   Carnevil44
+       Jul   /   Davidos   /   NinjaOtter
+Ech   /   tobyjk   /   VentZer0
+     iDope   /   Spam Shadow   /   CupONoodos
+ Fish   /   Time Crab   /   Himme
+     xZEPHERx   /   Cybermedium   /   Master_Unreal
+Kekle3   /   Magnitus   /   Lottie
+   Madpingurso   /   MilkNCookies   /   glitchking2012
+  Pizzie   /   The Great Gonzo   /   Deadplug
+  D3ads   /   Spikewess   /   Zaratul
+Maraken   /   Psyche   /   Duck354
+       Sasch   /   Stalker   /   Spectreazura
+         Wratman   /   Kyller92   /   PKMN Trainer Red
+       Trinh   /   Griff   /   Snickerbones
+       Vosla   /   FriskyNoodle   /   Mastachief34
+      Money   /   Boomer1024   /   Pvt. Griggs
+ Dethtoll   /   Korpor4l   /   Servo Ten
+Aurock1993   /   sdaoust   /   KethamBodds
+Silktax   /   Soundwave145   /   Illthak
+      Xypher   /   Spruce   /   Woolybear777
+Wolf   /   Quad   /   Mibs
+ 9102376   /   Crispy2theMAX   /   Excentri
+      Gamblee   /   Joebobjrjr   /   llamalord2212
+ Ravebot   /   Akurik   /   AKiRAPDZ
+    JnJT0   /   Anterly   /   Blackzero
+     DNR3   /   Shalyn Lillard   /   Drathamus
+Vakarian1991   /   Fr0ggy   /   ArcticRevrus
+   Birger1987   /   bXmMusic   /   ThatFurInCamo
+Cry
+
+
+
+
+
+
+#THANKS FOR PLAYING!

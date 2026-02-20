@@ -1,0 +1,224 @@
+suicide
+{
+	line1		"Druk * vlug achter elkaar om de zelfmoordneiging te onderdrukken!"
+	nobutton	"attack button"
+	cfgbutton	"+attack"
+}
+
+sprint
+{
+	line1		"Houd * ingedrukt om te sprinten. De blauwe balk geeft je uithoudingsvermogen weer."
+	line2		"Sprinten gaat ten koste van je uithoudingsvermogen, gebruik het niet te vaak."
+	line3		"Je komt weer op adem wanneer je niet sprint of springt, door te bukken gaat het sneller."
+	nobutton	"sprint button"
+	cfgbutton	"+sprint"
+}
+
+nightvision
+{
+	line1		"Druk * om de nachtkijker aan/uit te zetten."
+	line2		"De nachtkijker heeft geen batterijen nodig."
+	nobutton	"flashlight button"
+	cfgbutton	"flashlight"
+}
+
+inventory
+{
+	line1		"Druk * om je inventaris te bekijken."
+	line2		"Hier kan je voorwerpen gebruiken, weggooien, selecteren en combineren."
+	line3		"Sommige voorwerpen kan je combineren. Zweef met de muis over de items voor hints."
+	nobutton	"inventory button"
+	cfgbutton	"+inventory"
+}
+
+quickslots
+{
+	line1		"Je kan tot 3 voorwerpen in je quick slots opslaan."
+	line2		"Druk op * en je wordt uitgerust met het voorwerp dat is opgeslagen in de eerste quick slot."
+	line3		"Dit is sneller dan het gebruiken van de inventaris en kan je leven redden."
+	nobutton	"quickslot button"
+	cfgbutton	"quicksel 1"
+}
+
+melee
+{
+	line1		"Druk * om met je wapen te slaan."
+	line2		"Hiermee doe je lichte schade aan monsters in je directe omgeving."
+	line3		"Gebruik het om vijanden weg te duwen, of wanneer je geen munitie meer hebt."
+	nobutton	"attack2 button"
+	cfgbutton	"+attack2"
+}
+
+ladders
+{
+	line1		"Druk * om ladders te beklimmen. Gebruik de bewegingsknoppen om omhoog/omlaag te klimmen."
+	nobutton	"use button"
+	cfgbutton	"+use"
+}
+
+dodge
+{
+	line1		"Druk tweemaal op de bewegingsknoppen, of houd * ingedrukt om te ontwijken."
+	line2		"Dit komt van pas bij het ontwijken van aanvallen en kan je leven redden."
+	line3		"Het ontwijken gaat ten koste van je uithoudingsvermogen, gebruik het verstandig."
+	nobutton	"dodge button"
+	cfgbutton	"+dodge"
+}
+
+mobilelight
+{
+	line1		"Je kan je mobiel als lichtbron gebruiken om zo door donkere gebieden te navigeren."
+	line2		"Druk * om je licht te activeren. Licht van je telefoon gebruikt geen batterijen."
+	line3		"Wanneer je de telefoon wegstopt met het licht aan, zal het licht door je zak schijnen."
+	nobutton	"attack1 button"
+	cfgbutton	"+attack"
+}
+
+useitems
+{
+	line1		"Om een sleutel te gebruiken open je eerst je inventaris met *."
+	line2		"Druk vervolgens op use, en kies daarna de sleutel."
+	line3		"Controleer de sleutel op aanwijzingen als je niet weet waar je het moet gebruiken."
+	nobutton	"inventory button"
+	cfgbutton	"+inventory"
+}
+
+usemobilephone
+{
+	line1		"Om een nummer te bellen met je mobiel, druk *."
+	line2		"Druk op de nummers of gebruik de nummers op je toetsenbord."
+	line3		"Druk na het invoeren van een nummer op send."
+	nobutton	"weapon toggle button"
+	cfgbutton	"weapontoggle"
+}
+
+save
+{
+	line1		"Je kan het spel opslaan bij elke bandrecorder."
+	line2		"Je kan tot 5 individuele spellen opslaan."
+	line3		"Op Nightmare mode heb je een casette nodig om op te kunnen slaan, deze kan je 5 keer gebruiken."
+}
+
+ironsights
+{
+	line1		"Druk * om het vizier te gebruiken."
+	line2		"Met het vizier kan je preciezer richten, ten koste van je loopsnelheid."
+	nobutton	"ironsights button"
+	cfgbutton	"aanvalsknop 3"
+}
+
+weaponfunctionglock
+{
+	line1		"Druk * om het licht aan/uit te doen."
+	line2		"De lamp heeft geen batterijen nodig."
+	nobutton	"weapon function button"
+	cfgbutton	"weapontoggle"
+}
+
+weaponfunctionm16
+{
+	line1		"Druk * om te schakelen tussen enkel schot en burst."
+	line2		"Als burst is geselecteerd vuurt het wapen 3 patronen zeer kort achter elkaar af."
+	line3		"Schieten met burst maakt het wapen moeilijker te controleren en gaat ten koste van precisie."
+	nobutton	"weapon function button"
+	cfgbutton	"weapontoggle"
+}
+	
+crouch
+{
+	line1		"Druk * om te bukken. Door te bukken kan je jezelf door krappe ruimtes manouvreren."
+	line2		"Door te bukken kom je ook sneller op adem, maar je kan je dan niet zo snel verplaatsen."
+	nobutton 	"crouch button"
+	cfgbutton	"+duck"
+}
+
+objectives
+{
+	line1		"Druk * om je huidige doel te bekijken."
+	nobutton 	"objectives button"
+	cfgbutton	"+objectives"
+}
+
+objective_a
+{
+	line1		"Vind de code voor het hangslot."
+}
+
+objective_b
+{
+	line1		"Help de persoon op de vierde verdieping."
+}
+
+objective_c
+{
+	line1		"Bereik de kelder."
+}
+
+objective_d
+{
+	line1		"Vind een videospeler."
+}
+
+objective_e
+{
+	line1		"Ontsnap uit de apartementen met de lift."
+}
+
+objective_f
+{
+	line1		"Bereik Hansson Square via Saxon Avenue."
+}
+
+objective_g
+{
+	line1		"Volg de dokter."
+}
+
+objective_h
+{
+	line1		"Breng 2 stoppen naar Hansson Square. Een van de stoppen is in Saxon Avenue."
+}
+
+objective_i
+{
+	line1		"Breng beide stoppen van de blauwe lijn om met de trein te ontsnappen."
+}
+
+objective_j
+{
+	line1		"Vind een weg uit het bos."
+}
+
+objective_k
+{
+	line1		"Open de poort die de trappen blokkeert. Stroom nodig?" 
+}
+
+objective_l
+{
+	line1		"Vind de dokter."
+}
+
+objective_m
+{
+	line1		"Zoek de dokter op zolder."
+}
+
+objective_n
+{
+	line1		"Ontsnap uit het gesticht."
+}
+
+objective_o
+{
+	line1		"Ga naar huis."
+}
+objective_p
+{
+	line1		"Breng de stop naar Saxon Avenue."
+}
+
+objective_q
+{
+	line1		"Vind een telefoonnummer."
+}

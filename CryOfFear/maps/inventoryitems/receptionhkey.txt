@@ -1,0 +1,46 @@
+"map_name"
+{
+	data	"receptionhkey"
+}
+
+
+"nice_name"
+{
+	data	"Reception H key"
+}
+
+
+"classname"
+{
+	data	"item_key"
+}
+
+
+"inventory_picture"
+{
+	data	"gfx/vgui/items/receptionhkey/640_receptionhkey_slot.tga"
+}
+
+
+"quick_picture"
+{
+	data	"gfx/vgui/items/receptionhkey/640_receptionhkey_slot.tga"
+}
+
+
+"3dmdl"
+{
+	data	"models/collab/receptionh_key.mdl"
+}
+
+
+"check_picture"
+{
+	data	"gfx/vgui/items/receptionhkey/640_receptionhkey_check.tga"
+}
+
+
+"droppable"
+{
+	data	"1"
+}

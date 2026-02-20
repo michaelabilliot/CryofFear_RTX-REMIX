@@ -1,0 +1,9 @@
+"Hvor er du? Kom hjem så snart som mulig. Det begynner å bli mørkt."
+"Se til høyre."
+"Hjelp meg!! De kommer! Jeg er inne i leilighetene, skynd deg!!"
+"Fjerde etasje!!"
+"Inn her."
+"Ta trappene, opp, opp, opp. Jeg har noe å vise deg"
+"Går det bra? Du må komme hjem nå, jeg blir bekymret."
+ 
+Advarsel: Lavt Batteri

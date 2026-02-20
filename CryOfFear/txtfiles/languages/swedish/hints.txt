@@ -1,0 +1,224 @@
+suicide
+{
+	line1		"Tryck på * för att fly undan självmordet!"
+	nobutton	"attackknappen"
+	cfgbutton	"+attack"
+}
+
+sprint
+{
+	line1		"Håll in * för att sprinta. Den blåa mätaren på din HUD är stamina-mätaren."
+	line2		"När du sprintar så kommer mätaren att sjunka snabbt, så använd sprinten varsamt."
+	line3		"Din stamina regenereras när du inte sprintar eller hoppar. Snabbare när du duckar."
+	nobutton	"Sprintknappen"
+	cfgbutton	"+sprint"
+}
+
+nightvision
+{
+	line1		"Tryck på * för att sätta på/stänga av nightvision."
+	line2		"Nightvision kräver inga batterier."
+	nobutton	"Ficklampsknappen"
+	cfgbutton	"flashlight"
+}
+
+inventory
+{
+	line1		"Tryck på * för att komma åt din inventory."
+	line2		"I inventoryn kan du använda, släppa eller kombinera dina saker."
+	line3		"Vissa saker kan kombineras med vapen. Håll musen över sakerna för att se information."
+	nobutton	"inventoryknappen"
+	cfgbutton	"+inventory"
+}
+
+quickslots
+{
+	line1		"Du kan lägga upp till 3 saker i dina quick slots."
+	line2		"Om du trycker på * kommer du att använda vapnet i din första slot."
+	line3		"Det här är snabbare än att använda saker genom inventoryn, vilket kan rädda ditt liv."
+	nobutton	"quickslotknappen"
+	cfgbutton	"quicksel 1"
+}
+
+melee
+{
+	line1		"Tryck på * för att använda melee-attacken."
+	line2		"Det här kommer att ge lite skada på fienden under snabba situationer."
+	line3		"Använd det för att putta bort fiender när du är omringad, eller har slut på ammo."
+	nobutton	"attack2knappen"
+	cfgbutton	"+attack2"
+}
+
+ladders
+{
+	line1		"Tryck på * för att klättra i stegar. Tryck på rörelseknapparna för att klättra."
+	nobutton	"Tryckknappen"
+	cfgbutton	"+use"
+}
+
+dodge
+{
+	line1		"Tryck två gånger på rörelseknapparna eller håll ner * för att dodga åt ett specifikt håll."
+	line2		"Det här är riktigt användbart för att fly undan attacker."
+	line3		"Dodging brukar stamina, så använd det med försiktighet."
+	nobutton	"dodgeknappen"
+	cfgbutton	"+dodge"
+}
+
+mobilelight
+{
+	line1		"Din mobil kan användas som ficklampa för att navigera i mörka områden."
+	line2		"Tryck på * för att sätta på lampan. Mobil-lampan kräver inga batterier."
+	line3		"Om du holstar mobilen med lampan på, så kommer ett svagt ljus att lysa igenom din väska."
+	nobutton	"attackknappen"
+	cfgbutton	"+attack"
+}
+
+useitems
+{
+	line1		"För att använda items, öppna din inventory med *."
+	line2		"I inventoryn, klicka på use-knappen och sedan på ditt item."
+	line3		"Kom ihåg att kolla på ditt item för ledtrådar om du är osäker på vart du kan använda det."
+	nobutton	"inventoryknappen"
+	cfgbutton	"+inventory"
+}
+
+usemobilephone
+{
+	line1		"För att ringa ett nummer med din mobil, tryck på *."
+	line2		"Härifrån kan du klicka på nummer eller skriva dem med ditt tangentbord."
+	line3		"När du har tryckt in numret, tryck på send-knappen. Vissa nummer kommer triggra events."
+	nobutton	"weapontoggle-knappen"
+	cfgbutton	"weapontoggle"
+}
+
+save
+{
+	line1		"Du kan endast spara spelet vid bandspelare."
+	line2		"Du kan använda upp till 5 save-slottar."
+	line3		"För att spara i Nightmare mode behövs band. Bandet kan endast användas 5 gånger."
+}
+
+ironsights
+{
+	line1		"Tryck på * för att använda iron sights."
+	line2		"Iron sights låter dig sikta med utmärk precision, men hindrar dig att utföra andra rörelser."
+	nobutton	"ironsightsknappen"
+	cfgbutton	"+attack3"
+}
+
+weaponfunctionglock
+{
+	line1		"Tryck på * för att toggla på/av ljuset."
+	line2		"Den kräver inga batterier."
+	nobutton	"weapontoggle-knappen"
+	cfgbutton	"weapontoggle"
+}
+
+weaponfunctionm16
+{
+	line1		"Tryck på * för att toggla mellan single-/burst fire."
+	line2		"Burst fire skjuter 3 skott i en extrem hastighet."
+	line3		"Burst fire gör att det blir svårare att kontrollera vapnet."
+	nobutton	"weapontoggle-knappen"
+	cfgbutton	"weapontoggle"
+}
+	
+crouch
+{
+	line1		"Hold * to crouch. cgfgdfsdfed, you can navigate into tight areas."
+	line2		"Crouching also helps recover your stamina faster, but you cannot move as fast."
+	nobutton 	"crouch button"
+	cfgbutton	"+duck"
+}
+
+objectives
+{
+	line1		"Tryck på * för att se vad du har för objectives."
+	nobutton 	"objectivesknappen"
+	cfgbutton	"+objectives"
+}
+
+objective_a
+{
+	line1		"Hitta koden till hänglåset. "
+}
+
+objective_b
+{
+	line1		"Hjälp personen på fjärde våningen."
+}
+
+objective_c
+{
+	line1		"Gå till källaren."
+}
+
+objective_d
+{
+	line1		"Hitta en VHS-spelare."
+}
+
+objective_e
+{
+	line1		"Fly lägenheterna med hissen."
+}
+
+objective_f
+{
+	line1		"Gå till Hansson Square via Saxon Avenue."
+}
+
+objective_g
+{
+	line1		"Följ efter doktorn."
+}
+
+objective_h
+{
+	line1		"Hämta 2 proppar till Hansson Square. Ena finns i Saxon Avenue."
+}
+
+objective_i
+{
+	line1		"Hämta båda propparna från blåa linjen för att fly med tåget."
+}
+
+objective_j
+{
+	line1		"Hitta vägen ut ur skogen."
+}
+
+objective_k
+{
+	line1		"Öppna porten som blockerar trappan. Behöver det elektricitet?"
+}
+
+objective_l
+{
+	line1		"Hitta doktorn."
+}
+
+objective_m
+{
+	line1		"Gå till vinden för att se om doktorn är där."
+}
+
+objective_n
+{
+	line1		"Gå ut ur Mental Sjukhuset via bakdörren."
+}
+
+objective_o
+{
+	line1		"Hitta vägen hem."
+}
+objective_p
+{
+	line1		"Hämta proppen till Saxon Avenue."
+}
+
+objective_q
+{
+	line1		"Hitta ett telefonnummer."
+}

@@ -1,0 +1,30 @@
+--------------
+MAJOR FIXES
+--------------
+Fixed num_edicts crash in the sewers
+Fixed save/load bug
+Fixed coop "server is full" when empty error
+Potentially fixed crash when shooting hammer monsters stuck to the wall by the tentacles
+Potentially fixed crash when shooting spitting train monsters
+Possibly fixed screen white-out in apartments
+Fixed crash when dropping secret package
+
+--------------
+MISC FIXES
+--------------
+Removed buggy custom resolution from launch app until we figure out how the HL resolution system works
+Fixed dropping items when dead in coop
+Fixed picking up a new syringe while using your last one removing them both
+Fixed dual wielding while in ironsights leaving you in ironsights
+Fixed large icon in Steam
+Slightly reduced monster attack distance
+Fixed sprinting when underwater to make you move faster
+Fixed being able to fall off the roof when given the yes/no prompt on the roofboss
+Fixed level changes playing CD music if you have an audio CD in the drive.
+Added missing voice chat key bind in options
+Fixed cutscene repetition in some areas
+Made it easier for players to see that you can jump through the bus window
+Added dual wield support for the VP70
+Slightly reduced book head monster attack distance and attack behaviour
+Added option to disable black and white effect in options
+Added option to disable camera/scope effect in options

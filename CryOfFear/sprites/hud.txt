@@ -1,0 +1,133 @@
+207
+//===========================================
+
+
+selection		640 640hud3	0	180	170	45
+
+bucket1			640 640hud7	168	72	20	20
+bucket2			640 640hud7	188	72	20	20		
+bucket3			640 640hud7	208	72	20	20		
+bucket4			640 640hud7	168	92	20	20		
+bucket5			640 640hud7	188	92	20	20		
+bucket0			640 640hud7	208	92	20	20		
+
+dmg_bio			640 640hud8	128	0	64	64
+dmg_poison		640 640hud8	128	0	64	64
+dmg_chem		640 640hud8	0	0	64	64
+dmg_cold		640 640hud9	64	0	64	64
+dmg_drown		640 640hud8	64	0	64	64
+dmg_heat		640 640hud9	128	0	64	64
+dmg_gas			640 640hud9	0	0	64	64
+dmg_rad			640 640hud9	192 0	64	64
+dmg_shock		640 640hud8	192	0	64	64
+
+number_0		640 640hud7	0	0	20	24
+number_1		640 640hud7	24	0	20	24
+number_2		640 640hud7	48	0	20	24
+number_3		640 640hud7	72	0	20	24
+number_4		640 640hud7	96	0	20	24
+number_5		640 640hud7	120	0	20	24
+number_6		640 640hud7	144	0	20	24
+number_7		640 640hud7	168	0	20	24
+number_8		640 640hud7	192	0	20	24
+number_9		640 640hud7	216	0	20	24
+
+divider			640 640hud7	240	0	2	40
+
+cross			640 640hud7	80	24	32	32
+
+suit_full		640 640hud7	0	24	40	40
+suit_empty		640 640hud7	40	24	40	40
+
+flash_full		640 640hud7	160	24	32	32
+flash_empty		640 640hud7	112	24	32	32
+flash_beam		640 640hud7 144	24	16	32
+
+train_back		640	640hud5 170	0	72	72
+train_stop		640	640hud5 170	72	72	72
+train_forward1	640	640hud5 170	144	72	72
+train_forward2	640	640hud6 170	0	72	72
+train_forward3	640	640hud6 170	72	72	72
+
+autoaim_c		640	crosshairs	96	0	24	24
+
+title_half		640 640hud4	0	226	256	30
+title_life		640 640hud5	0	226	220	30
+
+d_crowbar		640	640hud1	192	0	48	16
+d_9mmhandgun	640	640hud1	192	16	32	16
+d_357			640	640hud1	192	32	32	16
+d_9mmAR			640	640hud1	192	48	48	16
+d_shotgun		640	640hud1	192	64	48	16
+d_bolt			640	640hud1	192	80	48	16
+d_crossbow		640	640hud1	192	80	48	16
+d_rpg_rocket	640	640hud1	192	96	48	16
+d_gauss		640	640hud1	192	112	32	16
+d_egon		640	640hud1	192	128	32	16
+d_hornet		640	640hud1	192	144	48	16
+d_grenade		640	640hud1	192	160	32	16
+d_satchel		640	640hud1	192	176	32	16
+d_tripmine		640	640hud1	192	192	32	16
+d_snark			640	640hud1	192	208	32	16
+d_skull			640	640hud1	192	224	32	16
+d_tracktrain		640	640hud1	192	240	32	16
+
+item_battery	640 640hud1	176	0	44	44
+item_healthkit	640 640hud2	176	48	44	44
+item_longjump	640 640hud2	176	96	44	44
+
+grenade			640 640hud7     48      96      24      24
+
+cof_health_empty        640 cof_health_empty  0  0  24  128
+cof_health_full         640 cof_health_full   0  0  24  128
+cof_scare_empty         640 cof_scare_empty   0  0  24  128
+cof_scare_full          640 cof_scare_full    0  0  24  128
+cof_glock_mag          640 cof_glock_mag    0  0  32  128
+cof_shotgun_box         640 cof_shotgun_box   0  0  32  128
+cof_health_icon         640 cof_health_icon   0  0  32  32
+cof_scare_icon          640 cof_scare_icon    0  0  32  32
+cof_glock_mag_icon     640 cof_glock_mag_icon 0  0  32  32
+cof_shotgun_box_icon    640 cof_shotgun_box_icon 0  0  32  32
+cof_mag_cross           640 cof_mag_cross     0  0  16  16
+cof_crosshair           640 cof_crosshair     0  0  32  32
+cof_syringe_icon    640 cof_syringe_icon 0  0  32  32
+cof_flare_icon    640 cof_flare_icon 0  0  32  32
+
+cof_p345_mag             640 cof_p345_mag        0  0  32  128
+cof_p345_mag_icon     640 cof_p345_mag_icon 0  0  32  32
+
+cof_m16_mag             640 cof_m16_mag        0  0  32  128
+cof_m16_mag_icon     640 cof_m16_mag_icon 0  0  32  32
+
+cof_tmp_mag             640 cof_tmp_mag        0  0  32  128
+cof_tmp_mag_icon     640 cof_tmp_mag_icon 0  0  32  32
+
+cof_rifle_mag             640 cof_rifle_mag        0  0  32  128
+cof_rifle_mag_icon     640 cof_rifle_mag_icon 0  0  32  32
+
+snoise            640 subtle_noise   0      0       256     256
+cof_blackbar      640 cof_blackbar   0      0       256     48
+sms_unread        640 sms_unread     0      0       32      32
+arghnoise         640 camnoise       0      0       256     256
+tv_framespr       640 tv_framespr    0      0       256     256
+cof_logo1          640 cof_logo1        0      0       256     256
+cof_logo2          640 cof_logo2        0      0       256     256
+name_andreas1 640 name_andreas1        0      0       256     256
+name_andreas2 640 name_andreas2        0      0       256     256
+name_james1    640 name_james1           0      0       256     256
+name_james2    640 name_james2           0      0       256     256
+name_jordy1     640 name_jordy1             0      0       256     256
+name_jordy2     640 name_jordy2             0      0       256     256
+
+tv_scanlines      640 tv_scanlines 0 0 256 256
+
+cof_browning_mag          640 cof_browning_mag    0  0  32  128
+cof_revolver_cylinder          640 cof_revolver_cylinder          0  0  64 64
+
+cof_famas_mag             640 cof_famas_mag        0  0  32  128
+cof_famas_mag_icon     640 cof_famas_mag_icon 0  0  32  32
+
+cof_vp70_mag             640 cof_vp70_mag        0  0  32  128
+cof_vp70_mag_icon     640 cof_vp70_mag_icon 0  0  32  32
+
+gm_inf          640 gm_inf       0      0       64      32

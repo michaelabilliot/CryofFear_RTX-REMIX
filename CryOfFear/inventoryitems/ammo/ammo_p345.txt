@@ -1,0 +1,19 @@
+"nice_name"
+{
+	data	"P345 Ammo"
+}
+
+"classname"
+{
+	data	"ammo_p345"
+}
+
+"inventory_picture"
+{
+	data	"gfx/vgui/ammo/p345_slot.tga"
+}
+
+"check_picture"
+{
+	data	"gfx/vgui/ammo/p345_check.tga"
+}

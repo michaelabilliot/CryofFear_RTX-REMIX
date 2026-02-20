@@ -1,0 +1,371 @@
+Node Graph Report for map:  c_trainride2.bsp
+10 Total Nodes
+
+Node#            0
+Location      1854, 832, 230
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            1
+Location      1835, 934, 230
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            2
+Location      1834,1030, 230
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            3
+Location      1833,1117, 230
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            4
+Location      1836, 767, 230
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            5
+Location      1835, 595, 230
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            6
+Location      1835, 682, 230
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            7
+Location      1869, 505, 230
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            8
+Location      1792, 507, 230
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            9
+Location      1830, 422, 230
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+LinkVisibleNodes - Initial Connections
+----------------------------------------------------------------------------
+Node #   0:
+
+   1  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   2  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   3  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   4  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   5  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   6  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   9  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+----------------------------------------------------------------------------
+Node #   1:
+
+   0  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   2
+   3
+   4
+   5  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   6  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   9  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+----------------------------------------------------------------------------
+Node #   2:
+
+   0  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   1
+   3
+   4
+   5  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   6  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   9  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+----------------------------------------------------------------------------
+Node #   3:
+
+   0  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   1
+   2
+   4
+   5  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   6  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   9  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+----------------------------------------------------------------------------
+Node #   4:
+
+   0  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   1
+   2
+   3
+   5  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   6  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   9  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+----------------------------------------------------------------------------
+Node #   5:
+
+   0  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   1  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   2  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   3  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   4  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   6
+   7
+   8
+----------------------------------------------------------------------------
+Node #   6:
+
+   0  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   1  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   2  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   3  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   4  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   5
+   9
+----------------------------------------------------------------------------
+Node #   7:
+
+   5
+   8
+   9
+----------------------------------------------------------------------------
+Node #   8:
+
+   5
+   7
+----------------------------------------------------------------------------
+Node #   9:
+
+   0  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   1  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   2  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   3  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   4  Entity on connection: func_wall_toggle, name: wallremove1  Model: *202
+   6
+   7
+----------------------------------------------------------------------------
+
+  62 Total Initial Connections -    8 Maximum connections for a single node.
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+Walk Rejection:
+-------------------------------------------------------------------------------
+Node    0:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   1 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   9 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   6 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   5 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   4 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   3 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   2 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    1:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   0 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   9 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   6 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   5 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   4 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   3 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   2 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    2:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   0 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   9 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   6 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   5 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   4 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   3 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   1 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    3:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   0 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   9 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   6 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   5 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   4 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   2 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   1 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    4:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   0 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   9 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   6 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   5 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   3 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   2 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   1 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    5:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   0 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   8 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   7 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   6 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   4 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   3 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   2 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   1 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    6:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   0 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   9 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   5 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   4 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   3 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   2 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   1 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    7:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   5 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   9 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   8 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    8:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   5 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   7 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    9:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   0 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   7 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   6 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   4 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   3 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   2 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   1 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+InLine Rejection:
+----------------------------------------------------------------------------
+Node   0:
+----------------------------------------------------------------------------
+
+Node   1:
+----------------------------------------------------------------------------
+
+Node   2:
+----------------------------------------------------------------------------
+
+Node   3:
+----------------------------------------------------------------------------
+
+Node   4:
+----------------------------------------------------------------------------
+
+Node   5:
+----------------------------------------------------------------------------
+
+Node   6:
+----------------------------------------------------------------------------
+
+Node   7:
+----------------------------------------------------------------------------
+
+Node   8:
+----------------------------------------------------------------------------
+
+Node   9:
+----------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------------------------
+Link Pairings:
+
+All Connections are Paired!
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+Total Number of Connections in Pool: 0
+-------------------------------------------------------------------------------
+Connection Pool: 0 bytes
+-------------------------------------------------------------------------------

@@ -1,0 +1,224 @@
+suicide
+{
+	line1		"Trykk * for å motstå selvmord!"
+	nobutton	"angreps knappen"
+	cfgbutton	"+attack"
+}
+
+sprint
+{
+	line1		"Hold * for å løpe. Den blå streken på din HUD er din stamina."
+	line2		"Løping vil begrense din stamina raskt, så bruk den med måte."
+	line3		"Din stamina vil komme tilbake over tid, når du ikke løper eller hopper. Ved å dukke lades den raskere."
+	nobutton	"løpeknappen"
+	cfgbutton	"+sprint"
+}
+
+nightvision
+{
+	line1		"Trykk * for slå nattsyn av og på."
+	line2		"Nattsynet krever ikke batterier."
+	nobutton	"nattsynknappen"
+	cfgbutton	"flashlight"
+}
+
+inventory
+{
+	line1		"Trykk * for å gå inn i ditt inventar."
+	line2		"Herfra kan du bruke, kaste eller kombinere gjenstander."
+	line3		"Noen gjenstander kan bli kombinert med våpen og vice versa. Hold pekeren over for å se hint."
+	nobutton	"inventarknappen"
+	cfgbutton	"+inventory"
+}
+
+quickslots
+{
+	line1		"Du kan legge opp til 3 gjenstander til hurtigtastene."
+	line2		"Om du trykker * vil du utrustes med våpenet til din første hurtigtast."
+	line3		"Dette er raskere enn å utruste deg gjennom inventaret og kan redde livet ditt."
+	nobutton	"hurtigtasten"
+	cfgbutton	"quicksel 1"
+}
+
+melee
+{
+	line1		"Trykk * for å utføre ett nærkampsangrep med våpenet ditt."
+	line2		"Dette vil påføre en mindre mengde skade til monstre i din umiddelbare nærhet."
+	line3		"Bruk det for å dytte vekk monstre når du omringet, eller er fri for ammo."
+	nobutton	"attack2 knappen"
+	cfgbutton	"+attack2"
+}
+
+ladders
+{
+	line1		"Bruk * for å klatre i stiger. Når du er i stigen bruk retningsknappene for å klatre opp eller ned."
+	nobutton	"bruk knappen"
+	cfgbutton	"+use"
+}
+
+dodge
+{
+	line1		"Dobbelttrykk på retningsknappene eller hold * for å dukke unna i en spesifikk retning."
+	line2		"Dette er veldig nyttig for å unngå angrep og kan redde livet ditt."
+	line3		"Dukking krever stamina, så bruk det varsomt."
+	nobutton	"dukke knappen"
+	cfgbutton	"+dodge"
+}
+
+mobilelight
+{
+	line1		"Mobiltelefonen kan brukes som en lyskilde for å navigere mørke områder."
+	line2		"Trykk * for å skru på lyset. Lyset på mobilen krever ikke batterier."
+	line3		"Om du legger bort mobilen med lyset på, vil ett dempet lys fremdeles skinne gjennom vesken din."
+	nobutton	"attack1 knappen"
+	cfgbutton	"+attack"
+}
+
+useitems
+{
+	line1		"For å bruke en gjenstand må du åpne inventaret med *"
+	line2		"Herfra kan du trykke bruk knappen og deretter trykke på gjenstanden."
+	line3		"Husk å sjekke gjenstander for hint om du er usikker på hvor eller hvordan de skal brukes."
+	nobutton	"inventar knappen"
+	cfgbutton	"+inventory"
+}
+
+usemobilephone
+{
+	line1		"For å ringe ett nummer med mobilen din, trykk *."
+	line2		"Herfra, kan du slå nummeret eller skrive dem inn med ett tastatur."
+	line3		"Når du har tastet inn ett nummer, trykk på send knappen. Noen nummer vil sette igang hendelser."
+	nobutton	"aktiver våpen knappen"
+	cfgbutton	"weapontoggle"
+}
+
+save
+{
+	line1		"Du kan lagre spillprogresjonen din på alle kassettopptakere."
+	line2		"Du kan lagre opp til 5 individuelle lagringer for flere gjennomganger av spillet."
+	line3		"Lagring krever en kassett i Marerittmodus. Kassetten kan kun brukes 5 ganger."
+}
+
+ironsights
+{
+	line1		"Trykk * for å aktivere jernsiktet."
+	line2		"Jernsiktet tillater deg å sikte presist men kommer med kostnaden av begrenset bevegelighet."
+	nobutton	"jernsikte knappen"
+	cfgbutton	"+attack3"
+}
+
+weaponfunctionglock
+{
+	line1		"Trykk * for å slå det taktiske lyset av og på."
+	line2		"Det taktiske lyset krever ikke batterier."
+	nobutton	"aktiver våpen knappen"
+	cfgbutton	"weapontoggle"
+}
+
+weaponfunctionm16
+{
+	line1		"Trykk * for å skifte mellom enkel- og flerskuddsild."
+	line2		"Flerskuddsild vil fyre av 3 etterfølgende skudd i ekstremt høy hastighet."
+	line3		"Flerskuddsild kommer til prisen av høy vanskelighet for å kontrollere våpenet."
+	nobutton	"aktiver våpen knappen"
+	cfgbutton	"weapontoggle"
+}
+	
+crouch
+{
+	line1		"Hold inne * for å krøke deg sammen. På huk, kan du navigere smale områder."
+	line2		"ved å krøke økes hastigheten for å hente inn stamina, men du kan ikke bevege deg like raskt."
+	nobutton 	"krøke knappen"
+	cfgbutton	"+duck"
+}
+
+objectives
+{
+	line1		"Trykk * for å vise ditt nåværende mål."
+	nobutton 	"mål knappen"
+	cfgbutton	"+objectives"
+}
+
+objective_a
+{
+	line1		"Finn koden til hengelåsen."
+}
+
+objective_b
+{
+	line1		"Hjelp personen i fjerde etasje."
+}
+
+objective_c
+{
+	line1		"Kom deg til kjelleren."
+}
+
+objective_d
+{
+	line1		"Finn en videospiller."
+}
+
+objective_e
+{
+	line1		"Røm leilighetene med heisen."
+}
+
+objective_f
+{
+	line1		"Nå Hansson Square gjennom Saxon Avenue."
+}
+
+objective_g
+{
+	line1		"Følg etter doktoren."
+}
+
+objective_h
+{
+	line1		"Hent 2 sikringer til Hansson Square. En er lokalisert i Saxon Avenue."
+}
+
+objective_i
+{
+	line1		"Ta begge sikringene fra den blå linjen for å rømme med toget."
+}
+
+objective_j
+{
+	line1		"Finn en vei ut av skogen."
+}
+
+objective_k
+{
+	line1		"Åpen porten som blokkerer trappen. Behøver elektrisiet?"
+}
+
+objective_l
+{
+	line1		"Lokaliser doktoren."
+}
+
+objective_m
+{
+	line1		"Gå til loftet for å se om doktoren er der."
+}
+
+objective_n
+{
+	line1		"Røm fra Mentalsykehuset."
+}
+
+objective_o
+{
+	line1		"Finn veien hjem."
+}
+objective_p
+{
+	line1		"Ta med sikringen til Saxon Avenue."
+}
+
+objective_q
+{
+	line1		"Finn et telefonnummer."
+}

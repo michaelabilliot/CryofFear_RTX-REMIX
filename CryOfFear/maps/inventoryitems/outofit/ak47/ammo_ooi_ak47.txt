@@ -1,0 +1,21 @@
+"nice_name"
+{
+	data	"AK47 Ammo"
+}
+
+"classname"
+{
+	data	"ammo_m16"
+}
+
+"inventory_picture"
+{
+	data	"gfx/vgui/items/outofit/ak47/ak47_ammo_slot.tga"
+}
+
+"check_picture"
+{
+	data	"gfx/vgui/items/outofit/ak47/ak47_ammo_check.tga"
+}
+
+

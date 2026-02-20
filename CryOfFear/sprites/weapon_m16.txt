@@ -1,0 +1,11 @@
+10
+weapon			320 320hud1	0	40	80	20
+weapon_s		320 320hud1	0	60	80	20
+
+crosshair		320 cof_crosshair	0	0	32	32
+autoaim			320 cof_crosshair	0	0	32	32
+weapon			640 ctaurus	0	0	170	80
+weapon_s		640 ctaurus	0	0	170	80
+
+crosshair		640 cof_crosshair	0	0	32	32
+autoaim			640 cof_crosshair	0	0	32	32

@@ -1,0 +1,9 @@
+"Où es-tu? Rentre à la maison au plus vite. Il commence à faire noir."
+"Regarde à droite".
+"Aide-moi!! S'il te plaît aide-moi!! Ils arrivent! Je suis dans les appartements, vite!!"
+"Quatrième étage!!"
+"Ici."
+"Prends les escaliers, en haut, en haut, en haut. J'ai quelque chose à te montrer."
+"Ca va? Tu devrais rentrer à la maison maintenant, je m'inquiète."
+
+Attention : Batterie faible.
